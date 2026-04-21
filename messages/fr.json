@@ -1,0 +1,200 @@
+{
+  "title": "Bonjour tout le monde !",
+  "home": "Accueil",
+  "about": "À propos",
+  "products": "Produits",
+  "contact": "Contactez-nous",
+  "Footer": {
+    "company": "Entreprise",
+    "about": "À propos",
+    "products": "Nos Produits",
+    "certifications": "Certifications",
+    "sustainability": "Durabilité",
+    "resources": "Ressources",
+    "blog": "Blog",
+    "recipes": "Recettes de dattes",
+    "healthBenefits": "Bienfaits pour la santé",
+    "faq": "FAQ",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "shipping": "Politique d'expédition",
+    "returns": "Politique de retour",
+    "contact": "Contactez-nous",
+    "followUs": "Suivez-nous",
+    "language": "Choisir la langue",
+    "description": "Exportateurs de dattes de qualité premium depuis 1985. Nous vous apportons les meilleures dattes de nos palmeraies à votre table.",
+    "rightsReserved": "Tous droits réservés.",
+    "sitemap": "Plan du site"
+  },
+  "Navbar": {
+    "logo": "HOMA FRUITS",
+    "language": "Langue",
+    "languageSelector": "Choisir la langue",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "links": {
+      "home": "Accueil",
+      "about": "À propos",
+      "products": "Nos Produits",
+      "contact": "Contact"
+    },
+    "languages": {
+      "english": "English",
+      "german": "Deutsch",
+      "arabic": "العربية",
+      "french": "Français",
+      "portuguese": "Português",
+      "italian": "Italiano",
+      "spanish": "Español"
+    }
+  },
+  "Contact": {
+    "title": "Contactez-nous",
+    "description": "Vous avez des questions ou des demandes ? Envoyez-nous un message et nous vous répondrons rapidement.",
+    "closingNote": "Nous sommes impatients de travailler avec vous !",
+    "form": {
+      "name": "Nom complet",
+      "namePlaceholder": "Entrez votre nom complet",
+      "email": "Adresse email",
+      "phone": "Numéro de téléphone",
+      "message": "Votre message",
+      "messagePlaceholder": "Écrivez votre message ici...",
+      "submit": "Envoyer le message",
+      "requiredFields": "Tous les champs marqués d'un * sont obligatoires."
+    },
+    "successMessage": "Merci de nous avoir contactés. Nous vous répondrons sous peu !",
+    "errors": {
+      "nameRequired": "Veuillez entrer votre nom.",
+      "invalidEmail": "Veuillez entrer une adresse email valide.",
+      "invalidPhone": "Veuillez entrer un numéro de téléphone valide.",
+      "messageTooShort": "Votre message doit contenir au moins 10 caractères.",
+      "submissionError": "Désolé, un problème est survenu lors de l'envoi de votre message. Veuillez réessayer plus tard."
+    }
+  },
+  "About": {
+    "title": "À propos de notre entreprise",
+    "subtitle": "Nous sommes un exportateur leader de dattes premium vers les marchés mondiaux.",
+    "whoWeAre": {
+      "title": "Qui sommes-nous",
+      "description": "Fondée avec une passion pour l'excellence, notre entreprise est spécialisée dans l'exportation des meilleures dattes tunisiennes. Nous garantissons la qualité à chaque étape, de la récolte à la distribution mondiale, en respectant les normes internationales pour satisfaire nos partenaires et clients."
+    },
+    "mission": {
+      "title": "Notre mission",
+      "description": "Fournir les meilleures dattes tunisiennes au monde avec une qualité, un goût et un service exceptionnels, tout en bâtissant des partenariats durables et de confiance."
+    },
+    "vision": {
+      "title": "Notre vision",
+      "description": "Être reconnu mondialement comme le principal exportateur de dattes, synonyme d'intégrité, d'innovation et d'excellence."
+    },
+    "location": {
+      "title": "Notre emplacement"
+    },
+    "contactUs": "Contactez-nous"
+  },
+  "Services": {
+    "title": "Nos Services",
+    "description": "HOMA FRUITS est une entreprise renommée spécialisée dans la transformation et le conditionnement des principales variétés de dattes tunisiennes, offrant une qualité premium aux marchés internationaux.",
+    "viewDetails": "Voir les détails"
+  },
+  "Process": {
+    "title": "Notre Processus",
+    "description": "Découvrez comment HOMA FRUITS garantit la meilleure qualité de la récolte à l'exportation.",
+    "harvesting": "Récolte",
+    "harvestingDesc": "Les dattes sont récoltées avec soin par des agriculteurs expérimentés à maturité optimale.",
+    "sorting": "Tri et nettoyage",
+    "sortingDesc": "Nos dattes sont triées et nettoyées pour assurer une sélection de qualité supérieure.",
+    "processing": "Transformation",
+    "processingDesc": "Transformées selon les normes les plus strictes pour garantir la sécurité et la fraîcheur.",
+    "packaging": "Emballage",
+    "packagingDesc": "Emballées professionnellement pour préserver le goût et la qualité pendant le transport.",
+    "export": "Exportation et livraison",
+    "exportDesc": "Expédiées dans le monde entier avec une fraîcheur garantie et une livraison ponctuelle.",
+    "prev": "Précédent",
+    "next": "Suivant"
+  },
+  "Quality": {
+    "title": "Qualité Premium Garantie",
+    "description": "Chez HOMA FRUITS, nous nous assurons que chaque datte est soigneusement sélectionnée, transformée et emballée selon les normes internationales de qualité et de fraîcheur. Découvrez le goût authentique des meilleures dattes tunisiennes.",
+    "contactUs": "Contactez-nous",
+    "discoverProducts": "Découvrir nos produits"
+  },
+  "Products": {
+    "title": "Nos Produits Premium",
+    "description": "Découvrez la meilleure sélection de dattes Deglet Nour tunisiennes, soigneusement classées pour votre confort.",
+    "viewAll": "Voir tout",
+    "viewDetails": "Voir les détails",
+    "backToProducts": "Retour à tous les produits",
+    "cta": {
+      "title": "Intéressé par nos {categoryTitle} ?",
+      "description": "Contactez-nous pour des demandes en gros ou des solutions d'emballage sur mesure.",
+      "button": "Nous contacter"
+    },
+    "categories": {
+      "branchDates": {
+        "title": "Dattes en branche",
+        "description": "Savourez le goût authentique des dattes Deglet Nour sur leurs branches naturelles, préservant fraîcheur et élégance.",
+        "image": "branch",
+        "products": [
+          {
+            "slug": "coffret-1kg-branch",
+            "title": "Coffret 1kg Deglet Nour Branchée",
+            "desc": "Les meilleures dattes Deglet Nour en branche, disposées avec élégance dans un coffret luxueux de 1kg.",
+            "image": "1kg-branch-coffret"
+          },
+          {
+            "slug": "coffret-500g-branch",
+            "title": "Coffret 500g Deglet Nour Branchée",
+            "desc": "Un demi-kilo de dattes en branche premium dans un coffret élégant.",
+            "image": "500g-branch-coffret"
+          }
+        ]
+      },
+      "standardDates": {
+        "title": "Dattes standards",
+        "description": "Dattes Deglet Nour de haute qualité, idéales pour la consommation quotidienne et la vente au détail.",
+        "image": "standard",
+        "products": [
+          {
+            "slug": "coffret-1kg-standards",
+            "title": "Coffret 1kg Deglet Nour Standards",
+            "desc": "Dattes Deglet Nour standards premium dans un emballage élégant.",
+            "image": "1kg-standard-coffret"
+          },
+          {
+            "slug": "ravier-500g",
+            "title": "Barquette 500g Deglet Nour",
+            "desc": "Barquette de 500g de dattes Deglet Nour douces et brillantes.",
+            "image": "500g-tray"
+          }
+        ]
+      },
+      "bouquets": {
+        "title": "Bouquets & Présentations",
+        "description": "Présentations élégantes de dattes Deglet Nour, idéales comme cadeaux raffinés ou pour un affichage luxueux en magasin.",
+        "image": "bouquet",
+        "products": [
+          {
+            "slug": "bouquet-500g",
+            "title": "Bouquet 500g Deglet Nour",
+            "desc": "Un bouquet authentique de dattes Deglet Nour (500g) alliant tradition et élégance. Parfait pour des cadeaux raffinés ou un affichage haut de gamme.",
+            "image": "500gBouquet"
+          }
+        ]
+      },
+      "datePaste": {
+        "title": "Pâte de dattes",
+        "description": "Notre pâte de dattes Deglet Nour 100% naturelle, idéale pour la pâtisserie, la boulangerie et les recettes saines sans additifs.",
+        "image": "paste",
+        "products": [
+          {
+            "slug": "patte-1kg",
+            "title": "Pâte de dattes Deglet Nour 1kg",
+            "desc": "Pack de 1kg de pâte de dattes Deglet Nour, sans additifs. Parfait pour la pâtisserie, les barres énergétiques, les smoothies et la production de desserts.",
+            "image": "1kgpack"
+          }
+        ]
+      }
+    }
+  }
+}

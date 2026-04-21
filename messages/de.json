@@ -1,0 +1,200 @@
+{
+  "title": "Hallo Welt!",
+  "home": "Startseite",
+  "about": "Über uns",
+  "products": "Produkte",
+  "contact": "Kontaktieren Sie uns",
+  "Footer": {
+    "company": "Unternehmen",
+    "about": "Über uns",
+    "products": "Unsere Produkte",
+    "certifications": "Zertifizierungen",
+    "sustainability": "Nachhaltigkeit",
+    "resources": "Ressourcen",
+    "blog": "Blog",
+    "recipes": "Dattelrezepte",
+    "healthBenefits": "Gesundheitsvorteile",
+    "faq": "FAQ",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "shipping": "Versandrichtlinie",
+    "returns": "Rückgaberichtlinie",
+    "contact": "Kontaktieren Sie uns",
+    "followUs": "Folgen Sie uns",
+    "language": "Sprache auswählen",
+    "description": "Premium-Dattelexporteure seit 1985. Wir bringen Ihnen die feinsten Datteln von unseren Plantagen direkt auf Ihren Tisch.",
+    "rightsReserved": "Alle Rechte vorbehalten.",
+    "sitemap": "Seitenübersicht"
+  },
+  "Navbar": {
+    "logo": "HOMA FRUITS",
+    "language": "Sprache",
+    "languageSelector": "Sprache auswählen",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "links": {
+      "home": "Startseite",
+      "about": "Über uns",
+      "products": "Unsere Produkte",
+      "contact": "Kontakt"
+    },
+    "languages": {
+      "english": "English",
+      "german": "Deutsch",
+      "arabic": "العربية",
+      "french": "Français",
+      "portuguese": "Português",
+      "italian": "Italiano",
+      "spanish": "Español"
+    }
+  },
+  "Contact": {
+    "title": "Kontaktieren Sie uns",
+    "description": "Haben Sie Fragen oder Anfragen? Senden Sie uns eine Nachricht und wir melden uns umgehend bei Ihnen.",
+    "closingNote": "Wir freuen uns auf die Zusammenarbeit mit Ihnen!",
+    "form": {
+      "name": "Ihr Name",
+      "namePlaceholder": "Geben Sie Ihren vollständigen Namen ein",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "message": "Ihre Nachricht",
+      "messagePlaceholder": "Schreiben Sie hier Ihre Nachricht...",
+      "submit": "Nachricht senden",
+      "requiredFields": "Alle mit * markierten Felder sind Pflichtfelder."
+    },
+    "successMessage": "Vielen Dank für Ihre Nachricht. Wir werden uns in Kürze bei Ihnen melden!",
+    "errors": {
+      "nameRequired": "Bitte geben Sie Ihren Namen ein.",
+      "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+      "invalidPhone": "Bitte geben Sie eine gültige Telefonnummer ein.",
+      "messageTooShort": "Ihre Nachricht muss mindestens 10 Zeichen lang sein.",
+      "submissionError": "Leider ist beim Absenden Ihrer Nachricht ein Problem aufgetreten. Bitte versuchen Sie es später erneut."
+    }
+  },
+  "About": {
+    "title": "Über unser Unternehmen",
+    "subtitle": "Wir sind ein führender Exporteur von Premium-Datteln auf den weltweiten Märkten.",
+    "whoWeAre": {
+      "title": "Wer wir sind",
+      "description": "Gegründet aus Leidenschaft für Exzellenz, spezialisiert sich unser Unternehmen auf den Export feinster tunesischer Datteln. Wir garantieren Qualität in jeder Phase, von der Ernte bis zur weltweiten Lieferung, und erfüllen internationale Standards zur Zufriedenheit unserer Partner und Kunden."
+    },
+    "mission": {
+      "title": "Unsere Mission",
+      "description": "Wir liefern die besten tunesischen Datteln weltweit mit außergewöhnlicher Qualität, Geschmack und Service und bauen langfristige vertrauensvolle Partnerschaften auf."
+    },
+    "vision": {
+      "title": "Unsere Vision",
+      "description": "Wir wollen weltweit als führender Dattel-Exporteur anerkannt werden, bekannt für Integrität, Innovation und Exzellenz."
+    },
+    "location": {
+      "title": "Unser Standort"
+    },
+    "contactUs": "Kontaktieren Sie uns"
+  },
+  "Services": {
+    "title": "Unsere Dienstleistungen",
+    "description": "HOMA FRUITS ist ein renommiertes Unternehmen, das sich auf die Verarbeitung und Verpackung der wichtigsten tunesischen Dattelsorten spezialisiert hat und Premiumqualität für internationale Märkte liefert.",
+    "viewDetails": "Details ansehen"
+  },
+  "Process": {
+    "title": "Unser Prozess",
+    "description": "Erfahren Sie, wie HOMA FRUITS von der Ernte bis zum Export höchste Qualität sicherstellt.",
+    "harvesting": "Ernte",
+    "harvestingDesc": "Datteln werden von erfahrenen Landwirten zum optimalen Reifezeitpunkt sorgfältig geerntet.",
+    "sorting": "Sortierung & Reinigung",
+    "sortingDesc": "Unsere Datteln werden sortiert und gereinigt, um höchste Qualität zu gewährleisten.",
+    "processing": "Verarbeitung",
+    "processingDesc": "Verarbeitet nach höchsten Standards für Sicherheit und Frische.",
+    "packaging": "Verpackung",
+    "packagingDesc": "Professionell verpackt, um Geschmack und Qualität während des Transports zu erhalten.",
+    "export": "Export & Lieferung",
+    "exportDesc": "Weltweiter Versand mit garantierter Frische und pünktlicher Lieferung.",
+    "prev": "Zurück",
+    "next": "Weiter"
+  },
+  "Quality": {
+    "title": "Premium-Qualität garantiert",
+    "description": "Bei HOMA FRUITS stellen wir sicher, dass jede Dattel sorgfältig ausgewählt, verarbeitet und verpackt wird, um internationalen Qualitäts- und Frischestandards zu entsprechen. Erleben Sie den authentischen Geschmack feinster tunesischer Datteln.",
+    "contactUs": "Kontaktieren Sie uns",
+    "discoverProducts": "Unsere Produkte entdecken"
+  },
+  "Products": {
+    "title": "Unsere Premium-Dattelprodukte",
+    "description": "Entdecken Sie unsere feinste Auswahl an tunesischen Deglet Nour Datteln, sorgfältig kategorisiert für Ihren Komfort.",
+    "viewAll": "Alle ansehen",
+    "viewDetails": "Details ansehen",
+    "backToProducts": "Zurück zu allen Produkten",
+    "cta": {
+      "title": "Interessiert an unseren {categoryTitle}?",
+      "description": "Kontaktieren Sie uns für Großhandelsanfragen oder maßgeschneiderte Verpackungslösungen.",
+      "button": "Kontakt aufnehmen"
+    },
+    "categories": {
+      "branchDates": {
+        "title": "Datteln am Zweig",
+        "description": "Erleben Sie den authentischen Geschmack von Deglet Nour Datteln an ihren natürlichen Zweigen, für Frische und Eleganz.",
+        "image": "branch",
+        "products": [
+          {
+            "slug": "coffret-1kg-branch",
+            "title": "1kg Deglet Nour Zweig Coffret",
+            "desc": "Feinste Deglet Nour Zweigdatteln, elegant arrangiert in einem luxuriösen 1kg Coffret.",
+            "image": "1kg-branch-coffret"
+          },
+          {
+            "slug": "coffret-500g-branch",
+            "title": "500g Deglet Nour Zweig Coffret",
+            "desc": "Halbes Kilo Premium-Zweigdatteln in einer stilvollen Verpackung.",
+            "image": "500g-branch-coffret"
+          }
+        ]
+      },
+      "standardDates": {
+        "title": "Standard Datteln",
+        "description": "Hochwertige Deglet Nour Datteln, perfekt für den täglichen Konsum und den Einzelhandel.",
+        "image": "standard",
+        "products": [
+          {
+            "slug": "coffret-1kg-standards",
+            "title": "1kg Deglet Nour Standard Coffret",
+            "desc": "Premium Deglet Nour Standard Datteln in eleganter Verpackung.",
+            "image": "1kg-standard-coffret"
+          },
+          {
+            "slug": "ravier-500g",
+            "title": "500g Deglet Nour Schale",
+            "desc": "500g Schale mit weichen, glänzenden Deglet Nour Datteln.",
+            "image": "500g-tray"
+          }
+        ]
+      },
+      "bouquets": {
+        "title": "Bouquets & Präsentationen",
+        "description": "Elegante Bouquet-Präsentationen von Deglet Nour Datteln, ideal als raffinierte Geschenke oder für luxuriöse Präsentationen im Einzelhandel.",
+        "image": "bouquet",
+        "products": [
+          {
+            "slug": "bouquet-500g",
+            "title": "500g Deglet Nour Bouquet",
+            "desc": "Ein authentisches 500g Deglet Nour Dattel-Bouquet, das Tradition und Eleganz vereint. Ideal als exklusives Geschenk oder für hochwertige Verkaufspräsentationen.",
+            "image": "500gBouquet"
+          }
+        ]
+      },
+      "datePaste": {
+        "title": "Dattelpaste",
+        "description": "Unsere 100% natürliche Deglet Nour Dattelpaste, perfekt für Backwaren, Desserts und gesunde Energieriegel ohne Zusatzstoffe.",
+        "image": "paste",
+        "products": [
+          {
+            "slug": "patte-1kg",
+            "title": "1kg Deglet Nour Dattelpaste",
+            "desc": "1kg Packung Deglet Nour Dattelpaste, frei von Zusatzstoffen. Ideal für Backwaren, Energieriegel, Smoothies und die Dessertproduktion.",
+            "image": "1kgpack"
+          }
+        ]
+      }
+    }
+  }
+}

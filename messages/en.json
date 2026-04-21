@@ -1,0 +1,212 @@
+{
+ 
+    "title": "Hello world!",
+  "home": "Home",
+  "about": "About Us",
+  "products": "Products",
+  "contact": "Contact Us",
+  "Footer": {
+    "company": "Company",
+    "about": "About Us",
+    "products": "Our Products",
+    "certifications": "Certifications",
+    "sustainability": "Sustainability",
+    "resources": "Resources",
+    "blog": "Blog",
+    "recipes": "Date Recipes",
+    "healthBenefits": "Health Benefits",
+    "faq": "FAQ",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "shipping": "Shipping Policy",
+    "returns": "Return Policy",
+    "contact": "Contact Us",
+    "followUs": "Follow Us",
+    "language": "Select Language",
+    "description": "Premium date exporters since 1985. Bringing you the finest quality dates from our palm groves to your table.",
+    "rightsReserved": "All rights reserved.",
+    "sitemap": "Sitemap"
+  
+},
+  "Navbar": {
+    "logo": "HOMA FRUITS",
+    "language": "Language",
+    "languageSelector": "Select language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    
+    "links": {
+      "home": "Home",
+      "about": "About Us",
+      "products": "Our Products",
+      "contact": "Contact"
+    },
+    
+    "languages": {
+      "english": "English",
+      "german": "Deutsch",
+      "arabic": "العربية",
+      "french": "Français",
+      "portuguese": "Português",
+      "italian": "Italiano",
+      "spanish": "Español"
+    }
+  
+},
+  "Contact": {
+    "title": "Get in Touch",
+    "description": "Have any questions or requests? Send us a message and we’ll get back to you shortly.",
+    "closingNote": "We look forward to working with you!",
+    "form": {
+      "name": "Your Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Your Message",
+      "messagePlaceholder": "Write your message here...",
+      "submit": "Send Message",
+      "requiredFields": "All fields marked with * are required."
+    },
+    "successMessage": "Thank you for contacting us. We will get back to you shortly!",
+    "errors": {
+      "nameRequired": "Please enter your name.",
+      "invalidEmail": "Please enter a valid email address.",
+      "invalidPhone": "Please enter a valid phone number.",
+      "messageTooShort": "Your message must be at least 10 characters long.",
+      "submissionError": "Sorry, there was a problem submitting your message. Please try again later."
+    }
+  },
+  "About": {
+    "title": "About Our Company",
+    "subtitle": "We are a leading exporter of premium quality dates to markets worldwide.",
+    "whoWeAre": {
+      "title": "Who We Are",
+      "description": "Founded with a passion for excellence, our company specializes in exporting the finest Tunisian dates. We ensure quality at every stage, from harvesting to global distribution, meeting international standards to satisfy our partners and clients."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To deliver the best Tunisian dates to the world with exceptional quality, taste, and service, building long-term trusted partnerships with our clients."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be recognized globally as the leading dates exporter known for integrity, innovation, and excellence."
+    },
+    "location": {
+      "title": "Our Location"
+    },
+    "contactUs": "Contact Us"
+  },
+    "Services": {
+    "title": "Our Services",
+    "description": "HOMA FRUITS is a renowned company specialized in processing and packaging of the main varieties of Tunisian dates, delivering premium quality to global markets.",
+    "viewDetails": "View Details"
+  },
+    "Process": {
+    "title": "Our Process",
+    "description": "Discover how HOMA FRUITS ensures the finest quality from harvest to export.",
+    "harvesting": "Harvesting",
+    "harvestingDesc": "Dates are carefully harvested by skilled farmers at optimal ripeness.",
+    "sorting": "Sorting & Cleaning",
+    "sortingDesc": "Our dates are sorted and cleaned to ensure premium quality selection.",
+    "processing": "Processing",
+    "processingDesc": "Processed with the highest standards for safety and freshness.",
+    "packaging": "Packaging",
+    "packagingDesc": "Packed professionally to preserve taste and quality during transit.",
+    "export": "Export & Delivery",
+    "exportDesc": "Shipped globally with guaranteed freshness and timely delivery.",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "Quality": {
+    "title": "Premium Quality Guaranteed",
+    "description": "At HOMA FRUITS, we ensure that every date is carefully selected, processed, and packaged to meet international standards of quality and freshness. Experience the authentic taste of premium Tunisian dates.",
+    "contactUs": "Contact Us",
+    "discoverProducts": "Discover Our Products"
+  },
+  "Products": {
+    "title": "Our Premium Date Products",
+    "description": "Discover the finest selection of Tunisian Deglet Nour dates, carefully categorized for your convenience.",
+    "viewAll": "View all",
+    "viewDetails": "View details",
+    "backToProducts": "Back to all products",
+     "cta": {
+      "title": "Interested in our {categoryTitle}?",
+      "description": "Contact us for wholesale inquiries or custom packaging solutions.",
+      "button": "Get in Touch"
+    },
+    "categories": {
+      "branchDates": {
+        "title": "Branch Dates",
+        "description": "Experience the authentic taste of Deglet Nour dates on their natural branches, preserving freshness and elegance.",
+        "image": "branch",
+        "products": [
+          {
+            "slug": "coffret-1kg-branch",
+            "title": "1kg Coffret Deglet Nour Branchée",
+            "desc": "Finest Deglet Nour branch dates, beautifully arranged in a 1kg luxury coffret.",
+            "image": "1kg-branch-coffret"
+          },
+          {
+            "slug": "coffret-500g-branch",
+            "title": "500g Coffret Deglet Nour Branchée",
+            "desc": "Half-kilo of premium branch dates in a stylish coffret.",
+            "image": "500g-branch-coffret"
+          }
+        ]
+      },
+      "standardDates": {
+        "title": "Standard Dates",
+        "description": "High-quality Deglet Nour dates, selected for daily consumption and retail.",
+        "image": "standard",
+        "products": [
+          {
+            "slug": "coffret-1kg-standards",
+            "title": "1kg Coffret Deglet Nour Standards",
+            "desc": "Premium standard Deglet Nour dates in elegant packaging.",
+            "image": "1kg-standard-coffret"
+          },
+          {
+            "slug": "ravier-500g",
+            "title": "500g Tray Deglet Nour",
+            "desc": "500g tray of soft, shiny Deglet Nour dates.",
+            "image": "500g-tray"
+          }
+        ]
+      },
+       "bouquets": {
+        "title": "Bouquets & Presentation",
+        "description": "Elegant bouquet presentations of Deglet Nour dates, perfect as refined gifts or for luxurious display in stores.",
+        "image": "bouquet",
+        "products": [
+          {
+            "slug": "bouquet-500g",
+            "title": "500g Bouquet Deglet Nour",
+            "desc": "An authentic bouquet of Deglet Nour dates (500g) combining tradition and elegance. Ideal for refined gifting or premium retail display.",
+            "image": "500gBouquet"
+          }
+        ]
+      },
+
+      "datePaste": {
+        "title": "Date Paste",
+        "description": "Our 100% natural Deglet Nour date paste, ideal for baking, pastry, and healthy energy recipes without additives.",
+        "image": "paste",
+        "products": [
+          {
+            "slug": "patte-1kg",
+            "title": "1kg Deglet Nour Date Paste",
+            "desc": "1kg pack of Deglet Nour date paste, additive-free and natural. Perfect for baking, energy bars, smoothies, and pastry production.",
+            "image": "1kgpack"
+          }
+        ]
+      }
+    }
+  }
+
+
+
+
+
+
+}

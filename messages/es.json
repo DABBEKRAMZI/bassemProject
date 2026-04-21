@@ -1,0 +1,200 @@
+{
+  "title": "¡Hola mundo!",
+  "home": "Inicio",
+  "about": "Sobre nosotros",
+  "products": "Productos",
+  "contact": "Contáctanos",
+  "Footer": {
+    "company": "Compañía",
+    "about": "Sobre nosotros",
+    "products": "Nuestros productos",
+    "certifications": "Certificaciones",
+    "sustainability": "Sostenibilidad",
+    "resources": "Recursos",
+    "blog": "Blog",
+    "recipes": "Recetas con dátiles",
+    "healthBenefits": "Beneficios para la salud",
+    "faq": "Preguntas frecuentes",
+    "legal": "Legal",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "shipping": "Política de envío",
+    "returns": "Política de devoluciones",
+    "contact": "Contáctanos",
+    "followUs": "Síguenos",
+    "language": "Seleccionar idioma",
+    "description": "Exportadores de dátiles premium desde 1985. Llevamos los mejores dátiles de nuestros palmerales a tu mesa.",
+    "rightsReserved": "Todos los derechos reservados.",
+    "sitemap": "Mapa del sitio"
+  },
+  "Navbar": {
+    "logo": "HOMA FRUITS",
+    "language": "Idioma",
+    "languageSelector": "Seleccionar idioma",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "links": {
+      "home": "Inicio",
+      "about": "Sobre nosotros",
+      "products": "Nuestros productos",
+      "contact": "Contacto"
+    },
+    "languages": {
+      "english": "English",
+      "german": "Deutsch",
+      "arabic": "العربية",
+      "french": "Français",
+      "portuguese": "Português",
+      "italian": "Italiano",
+      "spanish": "Español"
+    }
+  },
+  "Contact": {
+    "title": "Ponte en contacto",
+    "description": "¿Tienes preguntas o solicitudes? Envíanos un mensaje y te responderemos en breve.",
+    "closingNote": "¡Esperamos trabajar contigo!",
+    "form": {
+      "name": "Tu nombre",
+      "namePlaceholder": "Ingresa tu nombre completo",
+      "email": "Correo electrónico",
+      "phone": "Número de teléfono",
+      "message": "Tu mensaje",
+      "messagePlaceholder": "Escribe tu mensaje aquí...",
+      "submit": "Enviar mensaje",
+      "requiredFields": "Todos los campos marcados con * son obligatorios."
+    },
+    "successMessage": "Gracias por contactarnos. ¡Te responderemos pronto!",
+    "errors": {
+      "nameRequired": "Por favor ingresa tu nombre.",
+      "invalidEmail": "Por favor ingresa un correo electrónico válido.",
+      "invalidPhone": "Por favor ingresa un número de teléfono válido.",
+      "messageTooShort": "Tu mensaje debe tener al menos 10 caracteres.",
+      "submissionError": "Lo sentimos, hubo un problema al enviar tu mensaje. Por favor, inténtalo de nuevo más tarde."
+    }
+  },
+  "About": {
+    "title": "Sobre nuestra empresa",
+    "subtitle": "Somos un exportador líder de dátiles premium en los mercados mundiales.",
+    "whoWeAre": {
+      "title": "Quiénes somos",
+      "description": "Fundada con pasión por la excelencia, nuestra empresa se especializa en exportar los mejores dátiles tunecinos. Garantizamos calidad en cada etapa, desde la cosecha hasta la distribución global, cumpliendo con los estándares internacionales para satisfacer a nuestros socios y clientes."
+    },
+    "mission": {
+      "title": "Nuestra misión",
+      "description": "Ofrecer los mejores dátiles tunecinos al mundo con calidad, sabor y servicio excepcionales, construyendo alianzas de confianza a largo plazo con nuestros clientes."
+    },
+    "vision": {
+      "title": "Nuestra visión",
+      "description": "Ser reconocidos a nivel mundial como el principal exportador de dátiles, conocido por su integridad, innovación y excelencia."
+    },
+    "location": {
+      "title": "Nuestra ubicación"
+    },
+    "contactUs": "Contáctanos"
+  },
+  "Services": {
+    "title": "Nuestros servicios",
+    "description": "HOMA FRUITS es una empresa reconocida especializada en el procesamiento y envasado de las principales variedades de dátiles tunecinos, ofreciendo calidad premium a los mercados internacionales.",
+    "viewDetails": "Ver detalles"
+  },
+  "Process": {
+    "title": "Nuestro proceso",
+    "description": "Descubre cómo HOMA FRUITS garantiza la mejor calidad desde la cosecha hasta la exportación.",
+    "harvesting": "Cosecha",
+    "harvestingDesc": "Los dátiles son cuidadosamente cosechados por agricultores expertos en su punto óptimo de maduración.",
+    "sorting": "Clasificación y limpieza",
+    "sortingDesc": "Nuestros dátiles se clasifican y limpian para garantizar una selección de calidad premium.",
+    "processing": "Procesamiento",
+    "processingDesc": "Procesados con los más altos estándares de seguridad y frescura.",
+    "packaging": "Envasado",
+    "packagingDesc": "Envasados profesionalmente para conservar su sabor y calidad durante el transporte.",
+    "export": "Exportación y entrega",
+    "exportDesc": "Envío global garantizando frescura y entrega puntual.",
+    "prev": "Anterior",
+    "next": "Siguiente"
+  },
+  "Quality": {
+    "title": "Calidad premium garantizada",
+    "description": "En HOMA FRUITS nos aseguramos de que cada dátil sea cuidadosamente seleccionado, procesado y envasado para cumplir con los estándares internacionales de calidad y frescura. Disfruta del auténtico sabor de los dátiles tunecinos premium.",
+    "contactUs": "Contáctanos",
+    "discoverProducts": "Descubre nuestros productos"
+  },
+  "Products": {
+    "title": "Nuestros productos premium",
+    "description": "Descubre la mejor selección de dátiles Deglet Nour tunecinos, cuidadosamente categorizados para tu comodidad.",
+    "viewAll": "Ver todo",
+    "viewDetails": "Ver detalles",
+    "backToProducts": "Volver a todos los productos",
+    "cta": {
+      "title": "¿Interesado en nuestros {categoryTitle}?",
+      "description": "Contáctanos para consultas al por mayor o soluciones de envasado personalizadas.",
+      "button": "Contáctanos"
+    },
+    "categories": {
+      "branchDates": {
+        "title": "Dátiles en rama",
+        "description": "Experimenta el auténtico sabor de los dátiles Deglet Nour en sus ramas naturales, conservando su frescura y elegancia.",
+        "image": "branch",
+        "products": [
+          {
+            "slug": "coffret-1kg-branch",
+            "title": "Coffret de 1kg Deglet Nour en rama",
+            "desc": "Los mejores dátiles Deglet Nour en rama, elegantemente dispuestos en un coffret de 1kg.",
+            "image": "1kg-branch-coffret"
+          },
+          {
+            "slug": "coffret-500g-branch",
+            "title": "Coffret de 500g Deglet Nour en rama",
+            "desc": "Medio kilo de dátiles premium en rama en un elegante coffret.",
+            "image": "500g-branch-coffret"
+          }
+        ]
+      },
+      "standardDates": {
+        "title": "Dátiles estándar",
+        "description": "Dátiles Deglet Nour de alta calidad, seleccionados para el consumo diario y la venta minorista.",
+        "image": "standard",
+        "products": [
+          {
+            "slug": "coffret-1kg-standards",
+            "title": "Coffret de 1kg Deglet Nour estándar",
+            "desc": "Dátiles Deglet Nour estándar premium en un empaque elegante.",
+            "image": "1kg-standard-coffret"
+          },
+          {
+            "slug": "ravier-500g",
+            "title": "Bandeja de 500g Deglet Nour",
+            "desc": "Bandeja de 500g de dátiles Deglet Nour suaves y brillantes.",
+            "image": "500g-tray"
+          }
+        ]
+      },
+      "bouquets": {
+        "title": "Bouquets y presentaciones",
+        "description": "Elegantes presentaciones de bouquets de dátiles Deglet Nour, perfectas como regalos refinados o para exhibición lujosa en tiendas.",
+        "image": "bouquet",
+        "products": [
+          {
+            "slug": "bouquet-500g",
+            "title": "Bouquet de 500g Deglet Nour",
+            "desc": "Un bouquet auténtico de dátiles Deglet Nour (500g) que combina tradición y elegancia. Ideal como regalo refinado o para presentaciones premium en tienda.",
+            "image": "500gBouquet"
+          }
+        ]
+      },
+      "datePaste": {
+        "title": "Pasta de dátiles",
+        "description": "Nuestra pasta de dátil Deglet Nour 100% natural, ideal para repostería, confitería y recetas energéticas saludables sin aditivos.",
+        "image": "paste",
+        "products": [
+          {
+            "slug": "patte-1kg",
+            "title": "Pasta de dátil Deglet Nour 1kg",
+            "desc": "Pack de 1kg de pasta de dátil Deglet Nour, sin aditivos y natural. Perfecta para hornear, barritas energéticas, batidos y producción de repostería.",
+            "image": "1kgpack"
+          }
+        ]
+      }
+    }
+  }
+}

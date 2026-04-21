@@ -1,0 +1,200 @@
+{
+  "title": "Ciao mondo!",
+  "home": "Home",
+  "about": "Chi siamo",
+  "products": "Prodotti",
+  "contact": "Contattaci",
+  "Footer": {
+    "company": "Azienda",
+    "about": "Chi siamo",
+    "products": "I nostri prodotti",
+    "certifications": "Certificazioni",
+    "sustainability": "Sostenibilità",
+    "resources": "Risorse",
+    "blog": "Blog",
+    "recipes": "Ricette con datteri",
+    "healthBenefits": "Benefici per la salute",
+    "faq": "Domande frequenti",
+    "legal": "Note legali",
+    "privacy": "Privacy Policy",
+    "terms": "Termini di servizio",
+    "shipping": "Politica di spedizione",
+    "returns": "Politica di reso",
+    "contact": "Contattaci",
+    "followUs": "Seguici",
+    "language": "Seleziona lingua",
+    "description": "Esportatori di datteri premium dal 1985. Portiamo i migliori datteri dalle nostre oasi alla tua tavola.",
+    "rightsReserved": "Tutti i diritti riservati.",
+    "sitemap": "Mappa del sito"
+  },
+  "Navbar": {
+    "logo": "HOMA FRUITS",
+    "language": "Lingua",
+    "languageSelector": "Seleziona lingua",
+    "openMenu": "Apri menu",
+    "closeMenu": "Chiudi menu",
+    "links": {
+      "home": "Home",
+      "about": "Chi siamo",
+      "products": "I nostri prodotti",
+      "contact": "Contatto"
+    },
+    "languages": {
+      "english": "English",
+      "german": "Deutsch",
+      "arabic": "العربية",
+      "french": "Français",
+      "portuguese": "Português",
+      "italian": "Italiano",
+      "spanish": "Español"
+    }
+  },
+  "Contact": {
+    "title": "Contattaci",
+    "description": "Hai domande o richieste? Inviaci un messaggio e ti risponderemo al più presto.",
+    "closingNote": "Non vediamo l'ora di collaborare con te!",
+    "form": {
+      "name": "Il tuo nome",
+      "namePlaceholder": "Inserisci il tuo nome completo",
+      "email": "Indirizzo email",
+      "phone": "Numero di telefono",
+      "message": "Il tuo messaggio",
+      "messagePlaceholder": "Scrivi qui il tuo messaggio...",
+      "submit": "Invia messaggio",
+      "requiredFields": "Tutti i campi contrassegnati con * sono obbligatori."
+    },
+    "successMessage": "Grazie per averci contattato. Ti risponderemo al più presto!",
+    "errors": {
+      "nameRequired": "Per favore inserisci il tuo nome.",
+      "invalidEmail": "Per favore inserisci un indirizzo email valido.",
+      "invalidPhone": "Per favore inserisci un numero di telefono valido.",
+      "messageTooShort": "Il messaggio deve contenere almeno 10 caratteri.",
+      "submissionError": "Ci dispiace, si è verificato un problema con l'invio. Riprova più tardi."
+    }
+  },
+  "About": {
+    "title": "Chi è la nostra azienda",
+    "subtitle": "Siamo un esportatore leader di datteri di qualità premium nei mercati internazionali.",
+    "whoWeAre": {
+      "title": "Chi siamo",
+      "description": "Fondata con passione per l'eccellenza, la nostra azienda è specializzata nell'esportazione dei migliori datteri tunisini. Garantiamo la qualità in ogni fase, dalla raccolta alla distribuzione mondiale, rispettando gli standard internazionali per soddisfare partner e clienti."
+    },
+    "mission": {
+      "title": "La nostra missione",
+      "description": "Fornire i migliori datteri tunisini nel mondo con qualità, gusto e servizio eccellenti, costruendo partnership durature e di fiducia con i nostri clienti."
+    },
+    "vision": {
+      "title": "La nostra visione",
+      "description": "Essere riconosciuti a livello globale come esportatori leader di datteri, noti per integrità, innovazione ed eccellenza."
+    },
+    "location": {
+      "title": "La nostra sede"
+    },
+    "contactUs": "Contattaci"
+  },
+  "Services": {
+    "title": "I nostri servizi",
+    "description": "HOMA FRUITS è un'azienda rinomata, specializzata nella lavorazione e confezionamento delle principali varietà di datteri tunisini, garantendo qualità premium per i mercati globali.",
+    "viewDetails": "Vedi dettagli"
+  },
+  "Process": {
+    "title": "Il nostro processo",
+    "description": "Scopri come HOMA FRUITS garantisce la massima qualità dalla raccolta all'esportazione.",
+    "harvesting": "Raccolta",
+    "harvestingDesc": "I datteri vengono raccolti accuratamente da agricoltori esperti al momento ottimale di maturazione.",
+    "sorting": "Selezione e pulizia",
+    "sortingDesc": "I nostri datteri vengono selezionati e puliti per garantire una scelta di qualità premium.",
+    "processing": "Lavorazione",
+    "processingDesc": "Lavorati secondo i più alti standard di sicurezza e freschezza.",
+    "packaging": "Confezionamento",
+    "packagingDesc": "Confezionati professionalmente per preservare sapore e qualità durante il trasporto.",
+    "export": "Esportazione e consegna",
+    "exportDesc": "Spediti a livello globale con freschezza e puntualità garantite.",
+    "prev": "Precedente",
+    "next": "Successivo"
+  },
+  "Quality": {
+    "title": "Qualità premium garantita",
+    "description": "In HOMA FRUITS garantiamo che ogni dattero sia accuratamente selezionato, lavorato e confezionato per rispettare gli standard internazionali di qualità e freschezza. Assapora il gusto autentico dei datteri tunisini premium.",
+    "contactUs": "Contattaci",
+    "discoverProducts": "Scopri i nostri prodotti"
+  },
+  "Products": {
+    "title": "I nostri prodotti premium",
+    "description": "Scopri la migliore selezione di datteri Deglet Nour tunisini, accuratamente suddivisi in categorie per la tua comodità.",
+    "viewAll": "Vedi tutto",
+    "viewDetails": "Vedi dettagli",
+    "backToProducts": "Torna a tutti i prodotti",
+    "cta": {
+      "title": "Interessato ai nostri {categoryTitle}?",
+      "description": "Contattaci per richieste all'ingrosso o soluzioni di confezionamento personalizzate.",
+      "button": "Contattaci"
+    },
+    "categories": {
+      "branchDates": {
+        "title": "Datteri su ramo",
+        "description": "Assapora il gusto autentico dei datteri Deglet Nour sui loro rami naturali, preservando freschezza ed eleganza.",
+        "image": "branch",
+        "products": [
+          {
+            "slug": "coffret-1kg-branch",
+            "title": "Coffret 1kg Deglet Nour su ramo",
+            "desc": "I migliori datteri Deglet Nour su ramo, elegantemente disposti in un coffret da 1kg.",
+            "image": "1kg-branch-coffret"
+          },
+          {
+            "slug": "coffret-500g-branch",
+            "title": "Coffret 500g Deglet Nour su ramo",
+            "desc": "Mezzo chilo di datteri premium su ramo in un coffret elegante.",
+            "image": "500g-branch-coffret"
+          }
+        ]
+      },
+      "standardDates": {
+        "title": "Datteri standard",
+        "description": "Datteri Deglet Nour di alta qualità, ideali per il consumo quotidiano e la vendita al dettaglio.",
+        "image": "standard",
+        "products": [
+          {
+            "slug": "coffret-1kg-standards",
+            "title": "Coffret 1kg Deglet Nour standard",
+            "desc": "Datteri Deglet Nour standard premium in una confezione elegante.",
+            "image": "1kg-standard-coffret"
+          },
+          {
+            "slug": "ravier-500g",
+            "title": "Vassoio 500g Deglet Nour",
+            "desc": "Vassoio da 500g di datteri Deglet Nour morbidi e lucenti.",
+            "image": "500g-tray"
+          }
+        ]
+      },
+      "bouquets": {
+        "title": "Bouquet e confezioni regalo",
+        "description": "Eleganti bouquet di datteri Deglet Nour, perfetti come regali raffinati o per esposizioni di lusso nei negozi.",
+        "image": "bouquet",
+        "products": [
+          {
+            "slug": "bouquet-500g",
+            "title": "Bouquet 500g Deglet Nour",
+            "desc": "Un bouquet autentico di datteri Deglet Nour (500g) che combina tradizione ed eleganza. Ideale come regalo raffinato o per esposizioni premium nei negozi.",
+            "image": "500gBouquet"
+          }
+        ]
+      },
+      "datePaste": {
+        "title": "Pasta di datteri",
+        "description": "La nostra pasta di dattero Deglet Nour 100% naturale, ideale per pasticceria, dolci e ricette energetiche sane senza additivi.",
+        "image": "paste",
+        "products": [
+          {
+            "slug": "patte-1kg",
+            "title": "Pasta di dattero Deglet Nour 1kg",
+            "desc": "Confezione da 1kg di pasta di dattero Deglet Nour, naturale e senza additivi. Perfetta per pasticceria, barrette energetiche, frullati e produzione dolciaria.",
+            "image": "1kgpack"
+          }
+        ]
+      }
+    }
+  }
+}

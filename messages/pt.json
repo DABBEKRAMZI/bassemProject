@@ -1,0 +1,200 @@
+{
+  "title": "Olá mundo!",
+  "home": "Início",
+  "about": "Sobre nós",
+  "products": "Produtos",
+  "contact": "Contato",
+  "Footer": {
+    "company": "Empresa",
+    "about": "Sobre nós",
+    "products": "Nossos produtos",
+    "certifications": "Certificações",
+    "sustainability": "Sustentabilidade",
+    "resources": "Recursos",
+    "blog": "Blog",
+    "recipes": "Receitas com tâmaras",
+    "healthBenefits": "Benefícios para a saúde",
+    "faq": "Perguntas frequentes",
+    "legal": "Legal",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "shipping": "Política de envio",
+    "returns": "Política de devolução",
+    "contact": "Contato",
+    "followUs": "Siga-nos",
+    "language": "Selecionar idioma",
+    "description": "Exportadores de tâmaras premium desde 1985. Levando as melhores tâmaras dos nossos palmeirais até a sua mesa.",
+    "rightsReserved": "Todos os direitos reservados.",
+    "sitemap": "Mapa do site"
+  },
+  "Navbar": {
+    "logo": "HOMA FRUITS",
+    "language": "Idioma",
+    "languageSelector": "Selecionar idioma",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "links": {
+      "home": "Início",
+      "about": "Sobre nós",
+      "products": "Nossos produtos",
+      "contact": "Contato"
+    },
+    "languages": {
+      "english": "English",
+      "german": "Deutsch",
+      "arabic": "العربية",
+      "french": "Français",
+      "portuguese": "Português",
+      "italian": "Italiano",
+      "spanish": "Español"
+    }
+  },
+  "Contact": {
+    "title": "Entre em contato",
+    "description": "Tem alguma pergunta ou solicitação? Envie-nos uma mensagem e retornaremos em breve.",
+    "closingNote": "Estamos ansiosos para trabalhar com você!",
+    "form": {
+      "name": "Seu nome",
+      "namePlaceholder": "Digite seu nome completo",
+      "email": "Endereço de e-mail",
+      "phone": "Número de telefone",
+      "message": "Sua mensagem",
+      "messagePlaceholder": "Escreva sua mensagem aqui...",
+      "submit": "Enviar mensagem",
+      "requiredFields": "Todos os campos marcados com * são obrigatórios."
+    },
+    "successMessage": "Obrigado por entrar em contato. Responderemos em breve!",
+    "errors": {
+      "nameRequired": "Por favor, insira seu nome.",
+      "invalidEmail": "Por favor, insira um e-mail válido.",
+      "invalidPhone": "Por favor, insira um número de telefone válido.",
+      "messageTooShort": "Sua mensagem deve ter pelo menos 10 caracteres.",
+      "submissionError": "Desculpe, houve um problema ao enviar sua mensagem. Por favor, tente novamente mais tarde."
+    }
+  },
+  "About": {
+    "title": "Sobre nossa empresa",
+    "subtitle": "Somos um dos principais exportadores de tâmaras de qualidade premium para mercados globais.",
+    "whoWeAre": {
+      "title": "Quem somos",
+      "description": "Fundada com paixão pela excelência, nossa empresa é especializada na exportação das melhores tâmaras tunisianas. Garantimos qualidade em todas as etapas, desde a colheita até a distribuição mundial, atendendo aos padrões internacionais para satisfazer nossos parceiros e clientes."
+    },
+    "mission": {
+      "title": "Nossa missão",
+      "description": "Levar as melhores tâmaras tunisianas ao mundo com qualidade, sabor e serviço excepcionais, construindo parcerias duradouras e confiáveis com nossos clientes."
+    },
+    "vision": {
+      "title": "Nossa visão",
+      "description": "Ser reconhecida globalmente como a principal exportadora de tâmaras, conhecida por integridade, inovação e excelência."
+    },
+    "location": {
+      "title": "Nossa localização"
+    },
+    "contactUs": "Entre em contato"
+  },
+  "Services": {
+    "title": "Nossos serviços",
+    "description": "HOMA FRUITS é uma empresa renomada, especializada no processamento e embalagem das principais variedades de tâmaras tunisianas, oferecendo qualidade premium aos mercados globais.",
+    "viewDetails": "Ver detalhes"
+  },
+  "Process": {
+    "title": "Nosso processo",
+    "description": "Descubra como a HOMA FRUITS garante a melhor qualidade desde a colheita até a exportação.",
+    "harvesting": "Colheita",
+    "harvestingDesc": "As tâmaras são colhidas cuidadosamente por agricultores experientes no ponto ideal de maturação.",
+    "sorting": "Classificação e limpeza",
+    "sortingDesc": "Nossas tâmaras são selecionadas e limpas para garantir a melhor qualidade.",
+    "processing": "Processamento",
+    "processingDesc": "Processadas com os mais altos padrões de segurança e frescor.",
+    "packaging": "Embalagem",
+    "packagingDesc": "Embaladas profissionalmente para preservar sabor e qualidade durante o transporte.",
+    "export": "Exportação e entrega",
+    "exportDesc": "Enviadas para todo o mundo com frescor e pontualidade garantidos.",
+    "prev": "Anterior",
+    "next": "Próximo"
+  },
+  "Quality": {
+    "title": "Qualidade premium garantida",
+    "description": "Na HOMA FRUITS, garantimos que cada tâmara seja cuidadosamente selecionada, processada e embalada para atender aos padrões internacionais de qualidade e frescor. Experimente o sabor autêntico das tâmaras tunisianas premium.",
+    "contactUs": "Contate-nos",
+    "discoverProducts": "Descubra nossos produtos"
+  },
+  "Products": {
+    "title": "Nossos produtos premium",
+    "description": "Descubra a melhor seleção de tâmaras Deglet Nour tunisianas, organizadas em categorias para sua comodidade.",
+    "viewAll": "Ver tudo",
+    "viewDetails": "Ver detalhes",
+    "backToProducts": "Voltar para todos os produtos",
+    "cta": {
+      "title": "Interessado em nossos {categoryTitle}?",
+      "description": "Entre em contato para pedidos no atacado ou soluções de embalagem personalizadas.",
+      "button": "Entre em contato"
+    },
+    "categories": {
+      "branchDates": {
+        "title": "Tâmaras no ramo",
+        "description": "Experimente o sabor autêntico das tâmaras Deglet Nour em seus ramos naturais, preservando frescor e elegância.",
+        "image": "branch",
+        "products": [
+          {
+            "slug": "coffret-1kg-branch",
+            "title": "Coffret 1kg Deglet Nour no ramo",
+            "desc": "As melhores tâmaras Deglet Nour no ramo, elegantemente arrumadas em coffret de 1kg.",
+            "image": "1kg-branch-coffret"
+          },
+          {
+            "slug": "coffret-500g-branch",
+            "title": "Coffret 500g Deglet Nour no ramo",
+            "desc": "Meio quilo de tâmaras premium no ramo em coffret elegante.",
+            "image": "500g-branch-coffret"
+          }
+        ]
+      },
+      "standardDates": {
+        "title": "Tâmaras padrão",
+        "description": "Tâmaras Deglet Nour de alta qualidade, selecionadas para consumo diário e varejo.",
+        "image": "standard",
+        "products": [
+          {
+            "slug": "coffret-1kg-standards",
+            "title": "Coffret 1kg Deglet Nour padrão",
+            "desc": "Tâmaras Deglet Nour padrão premium em embalagem elegante.",
+            "image": "1kg-standard-coffret"
+          },
+          {
+            "slug": "ravier-500g",
+            "title": "Bandeja 500g Deglet Nour",
+            "desc": "Bandeja de 500g com tâmaras Deglet Nour macias e brilhantes.",
+            "image": "500g-tray"
+          }
+        ]
+      },
+      "bouquets": {
+        "title": "Bouquets e presentes",
+        "description": "Apresentações elegantes de tâmaras Deglet Nour em bouquet, perfeitas como presentes refinados ou para exposição de luxo em lojas.",
+        "image": "bouquet",
+        "products": [
+          {
+            "slug": "bouquet-500g",
+            "title": "Bouquet 500g Deglet Nour",
+            "desc": "Um bouquet autêntico de tâmaras Deglet Nour (500g) combinando tradição e elegância. Ideal como presente refinado ou exposição premium no varejo.",
+            "image": "500gBouquet"
+          }
+        ]
+      },
+      "datePaste": {
+        "title": "Pasta de tâmara",
+        "description": "Nossa pasta de tâmara Deglet Nour 100% natural, ideal para panificação, confeitaria e receitas saudáveis sem aditivos.",
+        "image": "paste",
+        "products": [
+          {
+            "slug": "patte-1kg",
+            "title": "Pasta de tâmara Deglet Nour 1kg",
+            "desc": "Pacote de 1kg de pasta de tâmara Deglet Nour, natural e sem aditivos. Perfeita para panificação, barrinhas energéticas, smoothies e confeitaria.",
+            "image": "1kgpack"
+          }
+        ]
+      }
+    }
+  }
+}
