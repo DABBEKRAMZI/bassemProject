@@ -1,11 +1,11 @@
 // app/[locale]/page.tsx
 import { redirect } from 'next/navigation';
 
-export default function RootPage({
-  params: { locale }
+export default async function RootPage({
+  params,
 }: {
-  params: { locale: string }
+  params: Promise<{ locale: string }>;  // ← now a Promise in Next.js 15
 }) {
-  // Redirect /en/ to /en/home
+  const { locale } = await params;  // ← must await it
   redirect(`/${locale}/home`);
 }
