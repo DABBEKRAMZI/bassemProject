@@ -1,26 +1,49 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FDF6ED;
+  --foreground: #2D1206;
+
+  /* Desert Luxury palette */
+  --color-dark:        #2D1206;
+  --color-dark-mid:    #4A1E0A;
+  --color-brown:       #7C3109;
+  --color-brown-mid:   #A44E1A;
+  --color-gold:        #C9820C;
+  --color-gold-light:  #F0C060;
+  --color-cream:       #FDF6ED;
+  --color-sand:        #F5E8D0;
+  --color-text:        #2D1206;
+  --color-text-muted:  #8B6347;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  /* Register the Google font CSS vars as Tailwind font tokens */
+  --font-serif: var(--font-playfair), Georgia, 'Times New Roman', serif;
+  --font-sans:  var(--font-poppins), 'Helvetica Neue', Arial, sans-serif;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-cream);
+  color: var(--color-text);
+  font-family: var(--font-poppins), 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Marquee animation */
+@keyframes marquee-scroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+.marquee-track {
+  display: flex;
+  white-space: nowrap;
+  animation: marquee-scroll 28s linear infinite;
+  will-change: transform;
+}
+
+.marquee-track:hover {
+  animation-play-state: paused;
 }

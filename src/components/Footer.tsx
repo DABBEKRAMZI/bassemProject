@@ -1,186 +1,129 @@
 'use client';
 
 import Link from 'next/link';
-import { useTranslations } from 'next-intl';
-import { FaLeaf, FaCalendarAlt, FaPhone, FaEnvelope, FaMapMarkerAlt, FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import { useTranslations, useLocale } from 'next-intl';
+import { FaPhone, FaEnvelope, FaMapMarkerAlt, FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import { GiPalmTree } from 'react-icons/gi';
 import ReactCountryFlag from 'react-country-flag';
 
 export default function Footer() {
   const t = useTranslations('Footer');
+  const locale = useLocale();
 
-  // Footer color scheme matching the navbar
-  const colors = {
-    primary: 'bg-[#2C5E1A]',         // Deep palm green
-    secondary: 'bg-[#1E4A12]',        // Darker green
-    accent: 'text-[#E8A75D]',         // Golden date color
-    textLight: 'text-[#F8F5E4]',      // Cream
-    textDark: 'text-[#2C5E1A]',       // Dark green
-  };
-
-  // Languages with country codes
   const languages = [
-    { code: 'en', country: 'GB' }, // Great Britain
-    { code: 'de', country: 'DE' }, // Germany
-    { code: 'ar', country: 'SA' }, // Saudi Arabia
-    { code: 'fr', country: 'FR' }, // France
-    { code: 'pt', country: 'PT' }, // Portugal
-    { code: 'it', country: 'IT' }, // Italy
-    { code: 'es', country: 'ES' }  // Spain
+    { code: 'en', country: 'GB' },
+    { code: 'de', country: 'DE' },
+    { code: 'ar', country: 'SA' },
+    { code: 'fr', country: 'FR' },
+    { code: 'pt', country: 'PT' },
+    { code: 'it', country: 'IT' },
+    { code: 'es', country: 'ES' },
   ];
 
   const footerLinks = [
-    {
-      title: t('company'),
-      links: [
-        { label: t('about'), href: '/about' },
-        { label: t('products'), href: '/products' },
-        { label: t('certifications'), href: '/certifications' },
-        { label: t('sustainability'), href: '/sustainability' },
-      ]
-    },
-    // {
-    //   title: t('resources'),
-    //   links: [
-    //     { label: t('blog'), href: '/blog' },
-    //     { label: t('recipes'), href: '/recipes' },
-    //     { label: t('healthBenefits'), href: '/health-benefits' },
-    //     { label: t('faq'), href: '/faq' },
-    //   ]
-    // },
-    // {
-    //   title: t('legal'),
-    //   links: [
-    //     { label: t('privacy'), href: '/privacy' },
-    //     { label: t('terms'), href: '/terms' },
-    //     { label: t('shipping'), href: '/shipping' },
-    //     { label: t('returns'), href: '/returns' },
-    //   ]
-    // }
+    { label: t('about'),    href: `/${locale}/about`    },
+    { label: t('products'), href: `/${locale}/products` },
+    { label: t('contact'),  href: `/${locale}/contact`  },
   ];
 
   const contactInfo = [
-    { icon: <FaPhone className={colors.accent} />, text: '+1 (555) 123-4567' },
-    { icon: <FaEnvelope className={colors.accent} />, text: 'info@HOMA FRUITS.com' },
-    { icon: <FaMapMarkerAlt className={colors.accent} />, text: '123 Palm Grove, Date Valley, CA 90210' }
+    { icon: <FaPhone />,         text: '+216 XX XXX XXX'            },
+    { icon: <FaEnvelope />,      text: 'homaindustrie1@gmail.com'   },
+    { icon: <FaMapMarkerAlt />,  text: 'Tunisia'                    },
   ];
 
   const socialMedia = [
-    { icon: <FaFacebook />, href: '#' },
-    { icon: <FaTwitter />, href: '#' },
-    { icon: <FaInstagram />, href: '#' },
-    { icon: <FaLinkedin />, href: '#' }
+    { icon: <FaFacebook />,  href: '#', label: 'Facebook'  },
+    { icon: <FaTwitter />,   href: '#', label: 'Twitter'   },
+    { icon: <FaInstagram />, href: '#', label: 'Instagram' },
+    { icon: <FaLinkedin />,  href: '#', label: 'LinkedIn'  },
   ];
 
   return (
-    <footer className={`${colors.primary} ${colors.textLight} border-t border-[#387D1F]`}>
-      {/* Main Footer Content */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-          
-          {/* Company Logo and Description */}
+    <footer className="bg-[#2D1206] text-[#FDF6ED] border-t border-[#4A1E0A]">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
+
+          {/* Brand */}
           <div className="md:col-span-1">
-            <div className="flex items-center mb-4">
-              <FaLeaf className={`text-3xl ${colors.accent} mr-2`} />
-              <span className="text-2xl font-bold font-montserrat">
-                HOMA <span className={colors.accent}>FRUITS</span>
-              </span>
+            <div className="flex items-center gap-2.5 mb-4">
+              <GiPalmTree className="text-3xl text-[#C9820C]" />
+              <div className="flex flex-col leading-none">
+                <span className="text-xl font-extrabold text-[#FDF6ED] tracking-wide">HOMA</span>
+                <span className="text-xs font-semibold text-[#C9820C] tracking-[0.2em] uppercase">Fruits</span>
+              </div>
             </div>
-            <p className="text-sm mb-4 opacity-90">
-              {t('description')}
-            </p>
-            
-            {/* Language Selector */}
-            <div className="mb-6">
-              <h4 className="text-sm font-semibold mb-3">{t('language')}</h4>
+            <p className="text-sm text-[#FDF6ED]/65 mb-6 leading-relaxed">{t('description')}</p>
+
+            {/* Language flags */}
+            <div>
+              <h4 className="text-xs font-semibold text-[#C9820C] uppercase tracking-widest mb-3">{t('language')}</h4>
               <div className="flex flex-wrap gap-2">
                 {languages.map((lang) => (
-                  <Link 
-                    key={lang.code} 
-                    href={`/${lang.code}`}
-                    className="hover:opacity-80 transition-opacity"
+                  <Link
+                    key={lang.code}
+                    href={`/${lang.code}/home`}
                     title={lang.code.toUpperCase()}
+                    className="hover:opacity-80 transition-opacity rounded-sm overflow-hidden"
                   >
-                    <ReactCountryFlag 
-                      countryCode={lang.country}
-                      svg
-                      style={{ width: '28px', height: '21px' }}
-                      className="rounded-sm"
-                    />
+                    <ReactCountryFlag countryCode={lang.country} svg style={{ width: '26px', height: '20px' }} />
                   </Link>
                 ))}
               </div>
             </div>
           </div>
 
-          {/* Footer Links */}
-          {footerLinks.map((section) => (
-            <div key={section.title} className="mt-4 md:mt-0">
-              <h3 className="text-lg font-semibold mb-4 flex items-center">
-                <FaLeaf className={`${colors.accent} mr-2 text-sm`} />
-                {section.title}
-              </h3>
-              <ul className="space-y-3">
-                {section.links.map((link) => (
-                  <li key={link.href}>
-                    <Link 
-                      href={link.href} 
-                      className={`text-sm hover:${colors.accent} transition-colors flex items-center`}
-                    >
-                      <span className="hover:underline">{link.label}</span>
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ))}
-
-          {/* Contact Information */}
-          <div className="mt-4 md:mt-0">
-            <h3 className="text-lg font-semibold mb-4 flex items-center">
-              <FaLeaf className={`${colors.accent} mr-2 text-sm`} />
-              {t('contact')}
-            </h3>
+          {/* Quick Links */}
+          <div>
+            <h3 className="text-xs font-semibold text-[#C9820C] uppercase tracking-widest mb-5">{t('company')}</h3>
             <ul className="space-y-3">
-              {contactInfo.map((item, index) => (
-                <li key={index} className="flex items-start">
-                  <span className="mr-3 mt-0.5">{item.icon}</span>
-                  <span className="text-sm">{item.text}</span>
+              {footerLinks.map((link) => (
+                <li key={link.href}>
+                  <Link href={link.href} className="text-sm text-[#FDF6ED]/65 hover:text-[#F0C060] transition-colors">
+                    {link.label}
+                  </Link>
                 </li>
               ))}
             </ul>
-            
-            {/* Social Media */}
-            <div className="mt-6">
-              <h4 className="text-sm font-semibold mb-3">{t('followUs')}</h4>
-              <div className="flex space-x-4">
-                {socialMedia.map((social, index) => (
-                  <a 
-                    key={index} 
-                    href={social.href} 
-                    className={`text-xl hover:${colors.accent} transition-colors`}
-                    aria-label={social.href.replace('#', '')}
-                  >
-                    {social.icon}
-                  </a>
-                ))}
-              </div>
+          </div>
+
+          {/* Contact */}
+          <div>
+            <h3 className="text-xs font-semibold text-[#C9820C] uppercase tracking-widest mb-5">{t('contact')}</h3>
+            <ul className="space-y-3">
+              {contactInfo.map((item, i) => (
+                <li key={i} className="flex items-start gap-3">
+                  <span className="mt-0.5 text-[#C9820C] shrink-0">{item.icon}</span>
+                  <span className="text-sm text-[#FDF6ED]/65">{item.text}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Social */}
+          <div>
+            <h3 className="text-xs font-semibold text-[#C9820C] uppercase tracking-widest mb-5">{t('followUs')}</h3>
+            <div className="flex gap-3">
+              {socialMedia.map((s) => (
+                <a
+                  key={s.label}
+                  href={s.href}
+                  aria-label={s.label}
+                  className="w-9 h-9 flex items-center justify-center rounded-lg bg-[#4A1E0A] text-[#FDF6ED]/70 hover:bg-[#C9820C] hover:text-[#2D1206] transition-all duration-200"
+                >
+                  {s.icon}
+                </a>
+              ))}
             </div>
           </div>
         </div>
       </div>
 
-      {/* Copyright Bar */}
-      <div className={`${colors.secondary} py-4`}>
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col md:flex-row justify-between items-center text-sm">
-            <p>© {new Date().getFullYear()} HOMA FRUITS. {t('rightsReserved')}</p>
-            <div className="flex space-x-4 mt-2 md:mt-0">
-              <Link href="/privacy" className="hover:underline">{t('privacy')}</Link>
-              <Link href="/terms" className="hover:underline">{t('terms')}</Link>
-              <Link href="/sitemap" className="hover:underline">{t('sitemap')}</Link>
-            </div>
-          </div>
-        </div>
+      {/* Copyright */}
+      <div className="border-t border-[#4A1E0A] py-5">
+        <p className="text-center text-xs text-[#FDF6ED]/40">
+          © {new Date().getFullYear()} HOMA FRUITS. {t('rightsReserved')}
+        </p>
       </div>
     </footer>
   );

@@ -1,19 +1,19 @@
-import Hero from '@/components/Hero'
-import Process from '@/components/Process'
-import Quality from '@/components/Quality'
-import Services from '@/components/Services'
-import React from 'react'
+import Hero from '@/components/Hero';
+import MarqueeBand from '@/components/MarqueeBand';
+import Stats from '@/components/Stats';
+import Services from '@/components/Services';
+import Process from '@/components/Process';
+import Quality from '@/components/Quality';
 
-function Homepage() {
+export default function Homepage() {
   return (
     <>
-    <Hero />
-    <Services/>
-    <Process/>
-    <Quality/>
+      <Hero />
+      <MarqueeBand />
+      <Stats />
+      <Services />
+      <Process />
+      <Quality />
     </>
-    
-  )
+  );
 }
-
-export default Homepage
